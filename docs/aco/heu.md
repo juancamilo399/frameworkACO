@@ -17,7 +17,7 @@ la definición genérica de esta clase se presenta a continuación:
 Metodo abstracto que define la heuristica de deseabilidad y retorna dicho valor para los arcos conectados a un nodo.
 
 ````
- delta_pheromone(edges)
+ get_deseability(edges)
 ````
 ### Arguments
 
